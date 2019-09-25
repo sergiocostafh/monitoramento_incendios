@@ -11,8 +11,6 @@ HORTO.shp.xml
 Monitoramento de risco de incendios.Rproj
 add_legend_decreasing.R
 calcular_IMA.R
-dados_arauco.txt
-dados_inmet.txt
 estacoes_arauco.cpg
 estacoes_arauco.dbf
 estacoes_arauco.prj
@@ -22,3 +20,5 @@ estacoes_arauco.shx
 informe.Rmd
 informe.html
 interpolar_IMA.R
+importar_dados_inmet.R
+improtar_dados_arauco.R
